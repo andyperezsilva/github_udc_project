@@ -13,4 +13,5 @@ The files used for this project are the databases in csv format. The files are c
 
 ### Credits
 Credits to Udacity. This course was the only place where the code was extracted and utilized from.
-
+However, I would like to recognize the help of Stackoverflow: https://stackoverflow.com/
+ 
