@@ -1,4 +1,3 @@
-import os
 import time
 import pandas as pd
 import numpy as np
@@ -16,7 +15,6 @@ def get_filters():
         (str) month - name of the month to filter by, or "all" to apply no month filter
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
-    os.system('cls')
     print('\nHello! Let\'s explore some US bikeshare data!\n')
     
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
