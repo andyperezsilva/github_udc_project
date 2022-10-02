@@ -9,8 +9,8 @@ Bike Share System
 The project is about a Bike renting system, and gives statistical data for bike rental for 3 different cities: Chicago, New York and Washington.
 
 ### Files used
-Include the files used
+The files used for this project are the databases in csv format. The files are chicago.csv, new_york_city.csv and washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Credits to Udacity. This course was the only place where the code was extracted and utilized from.
 
