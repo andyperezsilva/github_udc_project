@@ -229,7 +229,7 @@ def user_stats(df):
     print('-'*40)
 
     
-def show_city_raw_data(city):
+def show_all_city_raw_data(city):
     """Displays five records from the selected city
        and also requests the user to select whether to show raw data or not
 
@@ -285,7 +285,7 @@ def main():
         station_stats(df)
         trip_duration_stats(df)
         user_stats(df)
-        show_city_raw_data(city)
+        show_all_city_raw_data(city)
         
         user_possible_answers = ['no','yes']
 
